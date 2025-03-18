@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "Data_Referencia": "2023-01-01",
+      "COGNOM": "Smith",
+      "Valor": 100,
+      "ORDRE_COGNOM": 1
+    },
+    {
+      "Data_Referencia": "2023-01-02",
+      "COGNOM": "Johnson",
+      "Valor": 200,
+      "ORDRE_COGNOM": 2
+    },
+    {
+      "Data_Referencia": "2023-01-03",
+      "COGNOM": "Williams",
+      "Valor": 150,
+      "ORDRE_COGNOM": 3
+    },
+    {
+      "Data_Referencia": "2023-01-04",
+      "COGNOM": "Jones",
+      "Valor": 250,
+      "ORDRE_COGNOM": 4
+    },
+    {
+      "Data_Referencia": "2023-01-05",
+      "COGNOM": "Brown",
+      "Valor": 300,
+      "ORDRE_COGNOM": 5
+    }
+    // Additional records would follow the same structure to reach over 500 records
+  ]
+}
